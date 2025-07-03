@@ -40,9 +40,11 @@ A sleek and responsive movie database app built with **React** and powered by th
    cd movie-app-final
 
 2. **Install dependencies**
-   ```npm install
+   ```bash
+   npm install
 
 3. **Run the app locally**
-   ```npm start
+   ```bash
+   npm start
 
 
