@@ -1,0 +1,49 @@
+
+html[data-theme="light"] {
+  background-color: #fff; 
+  color: black;
+}
+
+html[data-theme="dark"] {
+  background-color: #121212; 
+  color: white;
+}
+
+
+
+
+
+html[data-theme="dark"] .navbar {
+  background-color: #333;
+}
+
+html[data-theme="light"] .navbar {
+  background-color: #f8f9fa;
+}
+
+
+html[data-theme="dark"] .card {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+html[data-theme="light"] .card {
+  background-color: white;
+  color: black;
+}
+
+html[data-theme="dark"] .btn-outline-light {
+  color: white;
+  border-color: white;
+}
+
+html[data-theme="light"] .btn-outline-light {
+  color: black;
+  border-color: black;
+}
+
+body {
+  padding-top: 4.5rem;
+}
+
+

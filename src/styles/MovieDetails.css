@@ -1,0 +1,31 @@
+.movie-details-container {
+  animation: fadeIn 0.5s ease-in;
+  min-height: 80vh;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.card-img-top {
+  max-height: 445px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.badge {
+  font-size: 0.85rem;
+  padding: 0.4em 0.7em;
+}
