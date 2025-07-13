@@ -1,6 +1,6 @@
 # 🎬 MovieApp – React
 
-A sleek and responsive movie database app built with **React** and powered by the **OMDb API**. Search for your favorite films, explore details, switch between Dark/Light mode, and save your favorites.
+A sleek and responsive movie database app built with **React** and powered by the **TMDb API**. Search for your favorite films, explore details, switch between Dark/Light mode, and save your favorites.
 
 ### 🌐 Live Demo  
 👉 [View the App](https://nataalii.github.io/react-final/)
@@ -23,7 +23,7 @@ A sleek and responsive movie database app built with **React** and powered by th
 
 - **React** – UI framework  
 - **React Router** – Client-side routing  
-- **OMDb API** – Movie data provider  
+- **TMDb API** – Movie data provider  
 - **Bootstrap** – Responsive styling  
 - **Framer Motion** – Page transitions  
 - **React Icons** – Theme and UI icons  
@@ -37,7 +37,6 @@ A sleek and responsive movie database app built with **React** and powered by th
 1. **Clone the repository**
    ```bash
    git clone https://github.com/nataalii/react-final.git
-   cd movie-app-final
 
 2. **Install dependencies**
    ```bash
